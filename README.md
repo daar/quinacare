@@ -5,4 +5,4 @@ This software is being developed for the [Quina Care](https://www.quinacare.org)
 
 
 
-Please cosider [donating](https://www.quinacare.org/en/donate/) to the Quina Care foundation and support their hospital in Ecuador.
+Please consider [donating](https://www.quinacare.org/en/donate/) to the Quina Care foundation and support their hospital in Ecuador.
